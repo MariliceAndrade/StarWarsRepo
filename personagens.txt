@@ -3,3 +3,4 @@ Darth Vader
 Obi Wan Kenobi
 Leia Organa
 Han Solo
+Chewbacca
